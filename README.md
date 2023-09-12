@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo Semuanya 👋
 Perkenalkan nama saya **Wahyu Ardyanto**.\
 Saya seorang **Junior Software Developer**.\
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti aku [Linkedin](https://www.linkedin.com/in/wahyu-ardyanto-ramadhan-7130611a7/) ku ya.
